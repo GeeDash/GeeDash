@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GeeDash/GeeDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dash
 
-Here are some ideas to get you started:
+### Building software, systems and digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante de Ingeniería de Sistemas enfocado en desarrollo web, arquitectura de software y creación de productos digitales.
+
+</div>
+
+---
+
+## 🚀 Qué hago
+
+- Desarrollo aplicaciones web modernas.
+- Diseño y construyo sistemas escalables.
+- Creo APIs y servicios backend.
+- Transformo ideas en productos digitales funcionales.
+
+---
+
+## 🏗 Ecosistema StarLabs
+
+### StarLabs Web
+Landing pages, catálogos, portafolios y sitios web empresariales.
+
+### StarLabs Systems
+Sistemas web personalizados, paneles administrativos y aplicaciones de negocio.
+
+### StarLabs Prebuilt
+Colección de componentes, animaciones, layouts y recursos reutilizables.
+
+### StarLabs Innovations
+Proyectos propios y productos digitales experimentales.
+
+---
+
+## ⚙️ Stack Principal
+
+```txt
+Frontend
+├── React
+├── Next.js
+├── TypeScript
+└── TailwindCSS
+
+Backend
+├── Node.js
+├── Express
+└── REST APIs
+
+Database
+├── PostgreSQL
+├── MySQL
+└── MongoDB
