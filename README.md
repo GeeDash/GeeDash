@@ -35,30 +35,6 @@
 
 ---
 
-## ⚡ Stack Tecnológico
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Bases de Datos
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
-### Herramientas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
-
----
-
 ## 📌 Actualmente
 
 ```txt
