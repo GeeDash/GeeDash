@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="./assets/banner.png" width="100%" alt="Dash Banner" />
-<p>
-  <img src="https://komarev.com/ghpvc/?username=GeeDash&label=Visitas%20al%20Perfil&color=7C3AED&style=for-the-badge" />
-</p>
 
 </div>
 
